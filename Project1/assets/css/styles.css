@@ -133,3 +133,14 @@ table {
       font-size: 18px;
       margin-top: 0;
     }
+    .visual{
+      background: rgb(34,193,195);
+      background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(45,253,183,1) 100%);
+    }
+    .visual2{
+      background: rgb(2,0,36);
+      background: linear-gradient(16deg, rgba(2,0,36,1) 0%, rgba(75,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    }
+    .textsize{
+        font-size: 30;
+    }
